@@ -13,7 +13,7 @@ This runs on **JavaSE-11** and **JDK-12.0.2**
 Since this can only be run on the command line follow these steps:
 1. Unzip the file. MAKE sure that the text files are there or the program will fail. You can modify the words to add or remove.
 2. Using Command prompt or Terminal go to the directory containing the jar.
-3. Run the program with java -jar Password.jar
+3. Run the program with `java -jar Password.jar`
 4. Follow the instructions.
 
 ### What's Next?
