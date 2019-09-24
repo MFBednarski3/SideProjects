@@ -11,6 +11,13 @@ Using an SQLite database that I plan to update every time a new update comes out
 ### Functional Requirements
 This program uses **JavaSE-11**, **JDK 12.0.2**, and **sqlite-jdbc-3.27.2.1.jar**.
 
+### How to Run
+1. Place the jar file anywhere you like.
+2. Click on the jar file to run it. 
+If it doesn't work:
+3. Using command prompt or Terminal go to the directory that contains the jar file
+4. Run the file as `java -jar DisneyEBGUI.jar`
+
 ### What's next?
 I plan to update this almost every month when new major updates come out. In addition, I hope to add in pictures to correspond
 to the boxes and emojis. Another possiblity is using an emoji checklist filter to use the results based on the emojis you have.
