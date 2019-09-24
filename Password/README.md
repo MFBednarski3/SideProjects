@@ -9,6 +9,13 @@ to move on to the next round. This is a game where players would pass around the
 ### Functional Requirements
 This runs on **JavaSE-11** and **JDK-12.0.2**
 
+### How to Run
+Since this can only be run on the command line follow these steps:
+1. Unzip the file. MAKE sure that the text files are there or the program will fail. You can modify the words to add or remove.
+2. Using Command prompt or Terminal go to the directory containing the jar.
+3. Run the program with java -jar Password.jar
+4. Follow the instructions.
+
 ### What's Next?
 As of now this only runs on the command line. I am still thinking on whether to do this as a GUI as I have done with my other projects 
 or as a mobile app. 
