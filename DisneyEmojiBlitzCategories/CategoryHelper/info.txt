@@ -1,0 +1,1 @@
+This is the database which contains all the info on the emojis.
